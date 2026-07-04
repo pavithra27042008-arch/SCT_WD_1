@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Responsive Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav id="navbar">
+    <h2>SkillCraft</h2>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+
+<section class="hero">
+    <h1>Responsive Landing Page</h1>
+    <p>Welcome to SkillCraft Technology</p>
+    <button>Get Started</button>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
