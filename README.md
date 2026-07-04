@@ -68,4 +68,4 @@ Responsive-Landing-Page/
 
 👩‍💻 Author
 
-Pavithra Pushpa Lakshmi K
+Pavithra Pushpa Lakshmi.K
